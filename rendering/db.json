@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "fullname": "Martin short",
+      "position": "Manager",
+      "age": 80,
+      "id": 1
+    },
+    {
+      "fullname": "Francis Jones",
+      "position": "VIP",
+      "age": "65",
+      "id": 2
+    },
+    {
+      "fullname": "Marcus Morris",
+      "position": "Developer",
+      "age": "33",
+      "id": 3
+    },
+    {
+      "fullname": "Mark Thomas",
+      "position": "Desktop",
+      "age": "25",
+      "id": 4
+    },
+    {
+      "fullname": "Stan Nzebi",
+      "position": "Lead Tech",
+      "age": "34",
+      "id": 5
+    }
+  ]
+}
